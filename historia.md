@@ -1,2 +1,2 @@
 # Historia
-Esta es una historia de ejemplo.
+Esta es una historia de ejemplo..
